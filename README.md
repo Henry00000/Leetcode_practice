@@ -6,4 +6,5 @@
 * **E** [**104. Maximum Depth of Binary Tree**](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0104.cpp)
 
 ## Queue
-**E** [**225. Implement Stack using Queues**](https://leetcode.com/problems/implement-stack-using-queues/) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0225.cpp)
+* **E** [**225. Implement Stack using Queues**](https://leetcode.com/problems/implement-stack-using-queues/) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0225.cpp)
+* **E** [**232. Implement Queue using Stacks**](https://leetcode.com/problems/implement-queue-using-stacks/) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0232.cpp)
