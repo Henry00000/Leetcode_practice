@@ -3,7 +3,7 @@
 ## Array
 
 ## Stack
-* **E** [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/?envType=problem-list-v2&envId=stack)
+* **E** [**20. Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/?envType=problem-list-v2&envId=stack) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0020.cpp)
 * **E** [**94. Binary Tree Inorder Traversal**](https://leetcode.com/problems/binary-tree-inorder-traversal/) (by Iterating method using Stack)
 * **E** [**144. Binary Tree Preorder Traversal**](https://leetcode.com/problems/binary-tree-preorder-traversal?envType=problem-list-v2&envId=stack)
 * **E** [**145. Binary Tree Postorder Traversal**](https://leetcode.com/problems/binary-tree-postorder-traversal?envType=problem-list-v2&envId=stack)
@@ -21,7 +21,7 @@
 
 
 ## Binary Tree
-* **E** [**94. Binary Tree Inorder Traversal**](https://leetcode.com/problems/binary-tree-inorder-traversal/) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0094.cpp) (by Recursive Approach)
+* **E** [**94. Binary Tree Inorder Traversal**](https://leetcode.com/problems/binary-tree-inorder-traversal/) [[C++](by Recursive Approach)](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0094.cpp)
 * **E** [**100. Same Tree**](https://leetcode.com/problems/same-tree?envType=problem-list-v2&envId=binary-tree) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0100.cpp)
 * **E** [**101. Symmetric Tree**](https://leetcode.com/problems/symmetric-tree?envType=problem-list-v2&envId=binary-tree) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0101.cpp)
 * **E** [**104. Maximum Depth of Binary Tree**](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/0104.cpp)
