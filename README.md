@@ -28,8 +28,3 @@
 * **E** [**2236. Root Equals Sum of Children**](https://leetcode.com/problems/root-equals-sum-of-children/) [[C++]](https://github.com/Henry00000/Leetcode_practice/blob/main/Solutios/2236.cpp)
 
 
-
-
- 
-
-
